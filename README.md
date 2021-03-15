@@ -1,6 +1,6 @@
-# Project Title
+# Assessing Channel Allocation
 
-[Projct Description goes here]
+This project contains data analysis for channel attribution in marketing campaigns.
 
 ## How to get started
 
@@ -119,3 +119,5 @@ Then open your browser at `localhost/5000`
 
 
 ### References:
+
+The data and analysis is attributed to the work by [@olivierzach](https://github.com/olivierzach/bayesian_marketing_attribution).
